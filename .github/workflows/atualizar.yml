@@ -1,4 +1,4 @@
-name: Atualizar Pluto TV Brasil
+name: "Atualizar Pluto TV Brasil"
 
 on:
   workflow_dispatch:
@@ -14,21 +14,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Baixar repositorio
+      - name: "Baixar repositorio"
         uses: actions/checkout@v4
 
-      - name: Configurar Python
+      - name: "Configurar Python"
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
-      - name: Instalar dependencias
+      - name: "Instalar dependencias"
         run: pip install -r requirements.txt
 
-      - name: Gerar playlist
+      - name: "Gerar playlist"
         run: python pluto.py
 
-      - name: Salvar playlist
+      - name: "Salvar playlist"
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
