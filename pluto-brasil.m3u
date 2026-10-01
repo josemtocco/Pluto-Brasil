@@ -4,7 +4,7 @@
 https://pluto-ssiptv.josevanit.workers.dev/c/5f120e94a5714d00074576a1
 #EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-name="Pluto TV Filmes Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="Filmes",Pluto TV Filmes Ação
 https://pluto-ssiptv.josevanit.workers.dev/c/5f120f41b7d403000783a6d6
-#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Filmes",Pluto TV Cine Terror
+#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Plutoween",Pluto TV Cine Terror
 https://pluto-ssiptv.josevanit.workers.dev/c/5f12111c9e6c2c00078ef3bb
 #EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-name="Filmes Suspense" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="Filmes",Filmes Suspense
 https://pluto-ssiptv.josevanit.workers.dev/c/5f171d3442a0500007362f22
@@ -28,8 +28,14 @@ https://pluto-ssiptv.josevanit.workers.dev/c/663b9dc7cb3ea10008f1a0ce
 https://pluto-ssiptv.josevanit.workers.dev/c/5fa1612a669ba0000702017b
 #EXTINF:-1 tvg-id="6a5520365badf45d3088b8d8" tvg-name="Pluto TV Cine Trapalhões" tvg-logo="https://images.pluto.tv/channels/6a5520365badf45d3088b8d8/colorLogoPNG_1786111209357.png" group-title="Filmes",Pluto TV Cine Trapalhões
 https://pluto-ssiptv.josevanit.workers.dev/c/6a5520365badf45d3088b8d8
-#EXTINF:-1 tvg-id="66aa67493a4ad2000806d91b" tvg-name="Pluto TV Terror Trash" tvg-logo="https://images.pluto.tv/channels/66aa67493a4ad2000806d91b/colorLogoPNG.png" group-title="Filmes",Pluto TV Terror Trash
+#EXTINF:-1 tvg-id="66aa67493a4ad2000806d91b" tvg-name="Pluto TV Terror Trash" tvg-logo="https://images.pluto.tv/channels/66aa67493a4ad2000806d91b/colorLogoPNG.png" group-title="Plutoween",Pluto TV Terror Trash
 https://pluto-ssiptv.josevanit.workers.dev/c/66aa67493a4ad2000806d91b
+#EXTINF:-1 tvg-id="685daaab9029059b2da9cb9a" tvg-name="Pluto TV Zumbis" tvg-logo="https://images.pluto.tv/channels/685daaab9029059b2da9cb9a/colorLogoPNG_1752855867313.png" group-title="Plutoween",Pluto TV Zumbis
+https://pluto-ssiptv.josevanit.workers.dev/c/685daaab9029059b2da9cb9a
+#EXTINF:-1 tvg-id="6a7caf2321d112e4a89fb38b" tvg-name="Pluto TV Criaturas Malditas" tvg-logo="https://images.pluto.tv/channels/6a7caf2321d112e4a89fb38b/colorLogoPNG_1787664685357.png" group-title="Plutoween",Pluto TV Criaturas Malditas
+https://pluto-ssiptv.josevanit.workers.dev/c/6a7caf2321d112e4a89fb38b
+#EXTINF:-1 tvg-id="6a91ac590c9f5239c28ef0b3" tvg-name="Sexta-Feira 13" tvg-logo="https://images.pluto.tv/channels/6a91ac590c9f5239c28ef0b3/colorLogoPNG_1790171852562.png" group-title="Plutoween",Sexta-Feira 13
+https://pluto-ssiptv.josevanit.workers.dev/c/6a91ac590c9f5239c28ef0b3
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-name="Adrenalina Pura TV" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="Filmes",Adrenalina Pura TV
 https://pluto-ssiptv.josevanit.workers.dev/c/61b790b985706b00072cb797
 #EXTINF:-1 tvg-id="66c79a4262e5510008ff68a5" tvg-name="Pluto TV Filmes Aventura" tvg-logo="https://images.pluto.tv/channels/66c79a4262e5510008ff68a5/colorLogoPNG.png" group-title="Filmes",Pluto TV Filmes Aventura
@@ -46,6 +52,8 @@ https://pluto-ssiptv.josevanit.workers.dev/c/663b9de4f999220008230fa8
 https://pluto-ssiptv.josevanit.workers.dev/c/62c5d32e2c48f9000715b6e9
 #EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-name="Filmelier TV" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="Filmes",Filmelier TV
 https://pluto-ssiptv.josevanit.workers.dev/c/633dcebd80386500074a2461
+#EXTINF:-1 tvg-id="6a281c0302b6c1c00a1fe570" tvg-name="MovieSphere by Lionsgate" tvg-logo="https://images.pluto.tv/channels/6a281c0302b6c1c00a1fe570/colorLogoPNG_1784227728470.png" group-title="Filmes",MovieSphere by Lionsgate
+https://pluto-ssiptv.josevanit.workers.dev/c/6a281c0302b6c1c00a1fe570
 #EXTINF:-1 tvg-id="6474ab5cdc7a760008745008" tvg-name="Pluto TV Séries Criminais" tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" group-title="Séries",Pluto TV Séries Criminais
 https://pluto-ssiptv.josevanit.workers.dev/c/6474ab5cdc7a760008745008
 #EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Séries",CSI: Miami
@@ -158,6 +166,8 @@ https://pluto-ssiptv.josevanit.workers.dev/c/6047fbdbbb776a0007e7f2ff
 https://pluto-ssiptv.josevanit.workers.dev/c/63dac32bda711800088a2ba3
 #EXTINF:-1 tvg-id="604b91e0692f770007d9f33f" tvg-name="Pluto TV Shows por Stingray" tvg-logo="https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png" group-title="Música",Pluto TV Shows por Stingray
 https://pluto-ssiptv.josevanit.workers.dev/c/604b91e0692f770007d9f33f
+#EXTINF:-1 tvg-id="6a74c036a311e7c50e8c1ba6" tvg-name="Stingray Hits Brasileiros" tvg-logo="https://images.pluto.tv/channels/6a74c036a311e7c50e8c1ba6/colorLogoPNG_1789402467394.png" group-title="Música",Stingray Hits Brasileiros
+https://pluto-ssiptv.josevanit.workers.dev/c/6a74c036a311e7c50e8c1ba6
 #EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-name="Pluto TV Natureza" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="Natureza",Pluto TV Natureza
 https://pluto-ssiptv.josevanit.workers.dev/c/5f1213ba0ecebc00070e170f
 #EXTINF:-1 tvg-id="681ba2ad93d3d19bcab47433" tvg-name="NatureTime" tvg-logo="https://images.pluto.tv/channels/681ba2ad93d3d19bcab47433/colorLogoPNG_1785430696843.png" group-title="Natureza",NatureTime
@@ -166,6 +176,8 @@ https://pluto-ssiptv.josevanit.workers.dev/c/681ba2ad93d3d19bcab47433
 https://pluto-ssiptv.josevanit.workers.dev/c/604a8dedbca75b0007b1c753
 #EXTINF:-1 tvg-id="6474aa984cfc2c0008883a92" tvg-name="Pluto TV Animais" tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title="Natureza",Pluto TV Animais
 https://pluto-ssiptv.josevanit.workers.dev/c/6474aa984cfc2c0008883a92
+#EXTINF:-1 tvg-id="6a74c028c1842722eafad356" tvg-name="Stingray Cityscapes" tvg-logo="https://images.pluto.tv/channels/6a74c028c1842722eafad356/colorLogoPNG_1789406891412.png" group-title="Curiosidades",Stingray Cityscapes
+https://pluto-ssiptv.josevanit.workers.dev/c/6a74c028c1842722eafad356
 #EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-name="Pluto TV Vida Real" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG_1732044921019.png" group-title="Curiosidades",Pluto TV Vida Real
 https://pluto-ssiptv.josevanit.workers.dev/c/5f32d4d9ec194100070c7449
 #EXTINF:-1 tvg-id="656e2a4b4261ca00083aa99e" tvg-name="Acumuladores Obsessivos" tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png" group-title="Curiosidades",Acumuladores Obsessivos
@@ -186,7 +198,7 @@ https://pluto-ssiptv.josevanit.workers.dev/c/5f1ef1a8cec6be00072a7ac9
 https://pluto-ssiptv.josevanit.workers.dev/c/5fac52f142044f00078e2a51
 #EXTINF:-1 tvg-id="6806d65e84f24b70109485fa" tvg-name="Pluto TV Aliens" tvg-logo="https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png" group-title="Mistérios e Sobrenatural",Pluto TV Aliens
 https://pluto-ssiptv.josevanit.workers.dev/c/6806d65e84f24b70109485fa
-#EXTINF:-1 tvg-id="620d1512c7986a0007220213" tvg-name="Assombrações" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="Mistérios e Sobrenatural",Assombrações
+#EXTINF:-1 tvg-id="620d1512c7986a0007220213" tvg-name="Assombrações" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="Plutoween",Assombrações
 https://pluto-ssiptv.josevanit.workers.dev/c/620d1512c7986a0007220213
 #EXTINF:-1 tvg-id="656e2a81954b020008ed17a4" tvg-name="Estado Paranormal" tvg-logo="https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG_1732041604478.png" group-title="Mistérios e Sobrenatural",Estado Paranormal
 https://pluto-ssiptv.josevanit.workers.dev/c/656e2a81954b020008ed17a4
