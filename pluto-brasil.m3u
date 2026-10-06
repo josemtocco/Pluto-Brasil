@@ -72,7 +72,7 @@ https://pluto-ssiptv.josevanit.workers.dev/c/64ff2d8c6625510008c5a512
 https://pluto-ssiptv.josevanit.workers.dev/c/678aa104680721c77c506746
 #EXTINF:-1 tvg-id="63d2ba2f60bc8f0008981a0e" tvg-name="Pluto TV Séries Sci-Fi" tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="Séries",Pluto TV Séries Sci-Fi
 https://pluto-ssiptv.josevanit.workers.dev/c/63d2ba2f60bc8f0008981a0e
-#EXTINF:-1 tvg-id="66b3af48d2d50d00083d6936" tvg-name="Z Nation" tvg-logo="https://images.pluto.tv/channels/66b3af48d2d50d00083d6936/colorLogoPNG_1785430432127.png" group-title="Séries",Z Nation
+#EXTINF:-1 tvg-id="66b3af48d2d50d00083d6936" tvg-name="Z Nation" tvg-logo="https://images.pluto.tv/channels/66b3af48d2d50d00083d6936/colorLogoPNG_1785430432127.png" group-title="Plutoween",Z Nation
 https://pluto-ssiptv.josevanit.workers.dev/c/66b3af48d2d50d00083d6936
 #EXTINF:-1 tvg-id="67e59a6557487a8b7fe73e23" tvg-name="A Caçadora de Relíquias" tvg-logo="https://images.pluto.tv/channels/67e59a6557487a8b7fe73e23/colorLogoPNG_1745618050777.png" group-title="Séries",A Caçadora de Relíquias
 https://pluto-ssiptv.josevanit.workers.dev/c/67e59a6557487a8b7fe73e23
@@ -198,7 +198,7 @@ https://pluto-ssiptv.josevanit.workers.dev/c/5f1ef1a8cec6be00072a7ac9
 https://pluto-ssiptv.josevanit.workers.dev/c/5fac52f142044f00078e2a51
 #EXTINF:-1 tvg-id="6806d65e84f24b70109485fa" tvg-name="Pluto TV Aliens" tvg-logo="https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png" group-title="Mistérios e Sobrenatural",Pluto TV Aliens
 https://pluto-ssiptv.josevanit.workers.dev/c/6806d65e84f24b70109485fa
-#EXTINF:-1 tvg-id="620d1512c7986a0007220213" tvg-name="Assombrações" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="Plutoween",Assombrações
+#EXTINF:-1 tvg-id="620d1512c7986a0007220213" tvg-name="Assombrações" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="Mistérios e Sobrenatural",Assombrações
 https://pluto-ssiptv.josevanit.workers.dev/c/620d1512c7986a0007220213
 #EXTINF:-1 tvg-id="656e2a81954b020008ed17a4" tvg-name="Estado Paranormal" tvg-logo="https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG_1732041604478.png" group-title="Mistérios e Sobrenatural",Estado Paranormal
 https://pluto-ssiptv.josevanit.workers.dev/c/656e2a81954b020008ed17a4
